@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap");
 
 :root {
-	--disk-size: 28rem;
+	--disk-size: 24rem;
 }
 
 html,
@@ -124,7 +124,7 @@ h1 {
 	}
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 600px) {
 	:root {
 		--disk-size: 15rem;
 	}
